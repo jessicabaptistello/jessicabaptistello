@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Junior Developer @ Upskill
+
+Olá, eu sou Jessica, Junior Developer @ Upskill!
