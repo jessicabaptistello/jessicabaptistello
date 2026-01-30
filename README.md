@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jessica Baptistello 
 
 <!--
 **jessicabaptistello/jessicabaptistello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Junior Developer @ Upskill
 
-Olá, eu sou Jessica, Junior Developer @ Upskill!
