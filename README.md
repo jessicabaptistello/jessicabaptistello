@@ -109,5 +109,5 @@ Crescer como desenvolvedora e construir soluções úteis, humanas e com impacto
 ---
 
 <p align="center">
-  🌸 Refúgio — tecnologia ao serviço das pessoas
+   Tecnologia ao serviço das pessoas
 </p>
