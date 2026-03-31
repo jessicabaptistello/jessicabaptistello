@@ -45,6 +45,10 @@ Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma sim
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ##  Formação e aprendizagem
@@ -60,7 +64,7 @@ Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma sim
 ##  GitHub
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
