@@ -15,7 +15,7 @@
 
 -  Formação em Direito  
 -  Em aprendizagem de desenvolvimento web  
--  Experiência com JavaScript, TypeScript, Angular, HTML e CSS  
+-  Experiência com JavaScript, TypeScript, Haskell, Angular, HTML e CSS  
 -  Interesse em tecnologia aplicada a pessoas e processos  
 
 ---
@@ -39,6 +39,7 @@ Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma sim
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -49,8 +50,8 @@ Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma sim
 ##  Formação e aprendizagem
 
 -  Formação em Direito  
--  Curso de Consultora :contentReference[oaicite:0]{index=0}  
--  Atualmente em formação em :contentReference[oaicite:1]{index=1}  
+-  Curso de Consultora CEGID  
+-  Atualmente em formação em ServiceNow  
 
  Interesse em tecnologia com impacto social, apoio ao utilizador e melhoria de processos.
 
