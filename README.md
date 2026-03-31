@@ -1,45 +1,41 @@
-<!-- HERO / HEADER -->
-<h1 align="center"> Ola, sou Jessica Baptistello</h1>
+<!-- HEADER -->
+<h1 align="center">Hi there, I'm Jessica </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=D89CA3&size=22&center=true&vCenter=true&width=500&lines=Tecnologia+com+impacto+social;Frontend+%7C+Backend+em+evolução;Projeto+Refúgio;Aprendendo+todos+os+dias" />
+    Web development student • Growing into fullstack
 </p>
 
 <p align="center">
-   Estudante de desenvolvimento web • Em evolução para Fullstack  
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jessicabaptistello&color=E6A4B4&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=D89CA3&size=22&center=true&vCenter=true&width=520&lines=Learning+every+day;Angular+%7C+Node.js;Technology+with+social+impact;Ref%C3%BAgio+project" />
 </p>
 
 ---
 
-##  Sobre mim
+##  About me
 
--  Formação em Direito  
--  Em aprendizagem de desenvolvimento web  
--  Experiência com JavaScript, TypeScript, Haskell, Angular, HTML e CSS  
--  Interesse em tecnologia aplicada a pessoas, processos e impacto social  
+-  Background in Law  
+-  Learning web development  
+-  Experience with JavaScript, TypeScript, Haskell, Angular, HTML and CSS  
+-  Interested in technology applied to people, processes and social impact  
 
 ---
 
-##  Último projeto
+##  Main project
 
-###  Apoio à Vítima (Refúgio)
+###  Apoio à Vítima | Refúgio
 
-Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma simples, segura e acessível.
+Web application focused on helping victims find support in a simple, safe and accessible way.
 
-**Stack:**
+**Stack**
 - Angular (frontend)  
 - Node.js + Express (backend)  
-- Supabase (auth + base de dados)  
+- Supabase (authentication and database)  
 
-🔗 [Ver projeto](https://github.com/jessicabaptistello/Apoio_Vitima)
+🔗 [View project](https://github.com/jessicabaptistello/Apoio_Vitima)
 
 ---
 
-##  Tecnologias
+##  Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F4B6C2?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -52,44 +48,54 @@ Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma sim
 
 ---
 
+##  Education and learning
+
+-  Law  
+-  CEGID Consultant course  
+-  Currently studying ServiceNow  
+
+I’m especially interested in technology with social impact, user support and process improvement.
+
+---
+
 ##  GitHub
 
 <p align="center">
-  <img height="140"
+  <img height="160"
     src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&theme=default&title_color=D89CA3&icon_color=F6ABB6&text_color=5A4A4A&hide_border=true"/>
-  
-  <img height="140"
+</p>
+
+<p align="center">
+  <img height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&title_color=D89CA3&text_color=5A4A4A&hide_border=true"/>
 </p>
 
 ---
 
-##  Em aprendizagem
+##  Currently learning
 
-- Desenvolvimento fullstack  
-- Integração frontend + backend  
-- Boas práticas de arquitetura  
-- Plataformas empresariais (ServiceNow)  
-
----
-
-##  Formação
-
--  Direito  
--  Consultora CEGID  
--  Formação em ServiceNow  
+- Fullstack development  
+- Frontend + backend integration  
+- Code organization and architecture  
+- Enterprise tools like ServiceNow  
 
 ---
 
-##  Atividade
+##  Activity
 
 <p align="center">
-  <img src="https://github.com/jessicabaptistello/jessicabaptistello/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jessicabaptistello/jessicabaptistello/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-##  Contacto
+##  Goal
+
+To grow as a developer and contribute to useful, human-centered solutions with real impact.
+
+---
+
+##  Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessica-de-araujo-baptistello">
@@ -102,12 +108,6 @@ Aplicação web focada em facilitar o acesso a apoio para vítimas, de forma sim
 
 ---
 
-##  Objetivo
-
-Crescer como desenvolvedora e construir soluções úteis, humanas e com impacto real.
-
----
-
 <p align="center">
-   Tecnologia ao serviço das pessoas
+   Technology in service of people
 </p>
