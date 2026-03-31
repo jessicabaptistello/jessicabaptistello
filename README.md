@@ -1,8 +1,7 @@
-<!-- HEADER -->
-<h1 align="center">Hi there, I'm Jessica </h1>
+<h1 align="center">Hi there, I'm Jessica</h1>
 
 <p align="center">
-    Web development student • Growing into fullstack
+  Refúgio • Web development student • Growing into fullstack
 </p>
 
 <p align="center">
@@ -11,31 +10,32 @@
 
 ---
 
-##  About me
+## About me
 
--  Background in Law  
--  Learning web development  
--  Experience with JavaScript, TypeScript, Haskell, Angular, HTML and CSS  
--  Interested in technology applied to people, processes and social impact  
+- Background in Law  
+- Learning web development  
+- Experience with JavaScript, TypeScript, Haskell, Angular, HTML and CSS  
+- Interested in technology applied to people, processes and social impact  
 
 ---
 
-##  Main project
+## Main project
 
-###  Apoio à Vítima | Refúgio
+### Apoio à Vítima | Refúgio
 
 Web application focused on helping victims find support in a simple, safe and accessible way.
 
-**Stack**
+Stack:
 - Angular (frontend)  
 - Node.js + Express (backend)  
 - Supabase (authentication and database)  
 
-🔗 [View project](https://github.com/jessicabaptistello/Apoio_Vitima)
+Link:  
+https://github.com/jessicabaptistello/Apoio_Vitima
 
 ---
 
-##  Technologies
+## Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F4B6C2?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -48,54 +48,54 @@ Web application focused on helping victims find support in a simple, safe and ac
 
 ---
 
-##  Education and learning
+## Education and learning
 
--  Law  
--  CEGID Consultant course  
--  Currently studying ServiceNow  
+- Law  
+- CEGID Consultant course  
+- Currently studying ServiceNow  
 
-I’m especially interested in technology with social impact, user support and process improvement.
+Focus on technology with social impact, user support and process improvement.
 
 ---
 
-##  GitHub
+## GitHub
 
 <p align="center">
   <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&theme=default&title_color=D89CA3&icon_color=F6ABB6&text_color=5A4A4A&hide_border=true"/>
+    src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&theme=transparent&title_color=D89CA3&icon_color=F6ABB6&text_color=8B6F74&border_color=F4D6DC"/>
 </p>
 
 <p align="center">
   <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&title_color=D89CA3&text_color=5A4A4A&hide_border=true"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&theme=transparent&title_color=D89CA3&text_color=8B6F74&border_color=F4D6DC"/>
 </p>
 
 ---
 
-##  Currently learning
+## Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jessicabaptistello/jessicabaptistello/output/github-contribution-grid-snake.svg" alt="activity graph" />
+</p>
+
+---
+
+## Currently learning
 
 - Fullstack development  
-- Frontend + backend integration  
+- Frontend and backend integration  
 - Code organization and architecture  
 - Enterprise tools like ServiceNow  
 
 ---
 
-##  Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jessicabaptistello/jessicabaptistello/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-##  Goal
+## Goal
 
 To grow as a developer and contribute to useful, human-centered solutions with real impact.
 
 ---
 
-##  Contact
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessica-de-araujo-baptistello">
@@ -109,5 +109,5 @@ To grow as a developer and contribute to useful, human-centered solutions with r
 ---
 
 <p align="center">
-   Technology in service of people
+  Refúgio — technology in service of people
 </p>
