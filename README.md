@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jessica</h1>
 
 <p align="center">
-  Refúgio • Web development student • Growing into fullstack
+   Web development student • Growing into fullstack
 </p>
 
 <p align="center">
@@ -60,14 +60,22 @@ Focus on technology with social impact, user support and process improvement.
 
 ## GitHub
 
+## GitHub
+
 <p align="center">
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&theme=transparent&title_color=D89CA3&icon_color=F6ABB6&text_color=8B6F74&border_color=F4D6DC"/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&bg_color=00000000&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&theme=transparent&title_color=D89CA3&text_color=8B6F74&border_color=F4D6DC"/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&bg_color=00000000&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -109,5 +117,5 @@ To grow as a developer and contribute to useful, human-centered solutions with r
 ---
 
 <p align="center">
-  Refúgio — technology in service of people
+  Technology in service of people
 </p>
