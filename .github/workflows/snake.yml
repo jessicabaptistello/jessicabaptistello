@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -15,9 +18,9 @@ jobs:
         with:
           github_user_name: jessicabaptistello
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=D89CA3&color_dots=#FDE2E4,#F8C8DC,#F4B6C2,#E6A4B4,#D89CA3
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=D89CA3&color_dots=FDE2E4,F8C8DC,F4B6C2,E6A4B4,D89CA3
 
-      - name: Push to repository
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
