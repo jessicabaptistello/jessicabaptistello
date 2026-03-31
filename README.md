@@ -58,28 +58,6 @@ Focus on technology with social impact, user support and process improvement.
 
 ---
 
-## GitHub
-
-## GitHub
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=jessicabaptistello&show_icons=true&bg_color=00000000&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabaptistello&layout=compact&bg_color=00000000&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## Activity
 
 <p align="center">
