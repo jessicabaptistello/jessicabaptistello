@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=D89CA3&size=22&center=true&vCenter=true&width=520&lines=Learning+every+day;Angular+%7C+Node.js;Technology+with+social+impact;Ref%C3%BAgio+project" />
 </p>
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-000?style=for-the-badge&logo=servicenow)
-
 ---
 
 ## About me
@@ -46,7 +38,14 @@ https://github.com/jessicabaptistello/Apoio_Vitima
 ## Technologies
 
 
-JavaScript • TypeScript • Angular • HTML • CSS • SQL • ServiceNow • Node.js • Express • Supabase
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
