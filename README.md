@@ -8,13 +8,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=D89CA3&size=22&center=true&vCenter=true&width=520&lines=Learning+every+day;Angular+%7C+Node.js;Technology+with+social+impact;Ref%C3%BAgio+project" />
 </p>
 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-000?style=for-the-badge&logo=servicenow)
+
 ---
 
 ## About me
 
 - Background in Law  
 - Learning web development  
-- Experience with JavaScript, TypeScript, Haskell, Angular, HTML and CSS  
+- Experience with JavaScript, TypeScript, Haskell, Angular, HTML, CSS, SQL and ServiceNow  
 - Interested in technology applied to people, processes and social impact  
 
 ---
@@ -37,14 +45,8 @@ https://github.com/jessicabaptistello/Apoio_Vitima
 
 ## Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F4B6C2?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-EEC3E7?style=for-the-badge&logo=typescript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Haskell-D8A7B1?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-F6ABB6?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-F6ABB6?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-D89CA3?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+
+JavaScript • TypeScript • Angular • HTML • CSS • SQL • ServiceNow • Node.js • Express • Supabase
 
 ---
 
@@ -68,10 +70,11 @@ Focus on technology with social impact, user support and process improvement.
 
 ## Currently learning
 
-- Fullstack development  
-- Frontend and backend integration  
-- Code organization and architecture  
-- Enterprise tools like ServiceNow  
+- Fullstack development
+- Frontend and backend integration
+- Code organization and architecture
+- Enterprise tools like ServiceNow
+- SQL and databases
 
 ---
 
